@@ -40,7 +40,7 @@ unzip them to a folder anywhere on your computer. Double click on
 
 ### Mac OSX and Others
 
-Follow the instructions for Windows 7, but choose the Mac installers instead.
+Follow the instructions for Windows, but choose the Mac installers instead.
 I have not tested this.
 
 
