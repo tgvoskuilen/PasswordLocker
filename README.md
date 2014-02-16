@@ -5,7 +5,7 @@ wxPython. It is for storing your website passwords and other information in a
 securely encrypted file. It can be used in conjunction with a cloud service
 such as Dropbox or SkyDrive to securely back up your password lists.
 
-It is tested in Windows (Vista and 7) and Ubuntu, but should work in any 
+It is tested in Windows 8 and Ubuntu, but should work in any 
 platform that wxPython works in.
 
 Installation
@@ -24,7 +24,7 @@ Clone this repo to a folder on your computer with
     
 Run the <code>run.py</code> script to open the program.
 
-### Windows 7
+### Windows 8
 
 First install python 2.7 for [Windows](http://www.python.org/getit/), 
 then install wxPython 2.8 with the appropriate
