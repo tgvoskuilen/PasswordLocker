@@ -34,7 +34,7 @@ pyCrypto 2.6 with the appropriate
 similar.
 
 Then download the source files for 
-[pyBrew](http://www.github.com/tgvoskuilen/PasswordLocker/archive/master.zip) and
+[PasswordLocker](http://www.github.com/tgvoskuilen/PasswordLocker/archive/master.zip) and
 unzip them to a folder anywhere on your computer. Double click on 
 <code>run.py</code> to start the program.
 
