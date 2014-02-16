@@ -1,6 +1,6 @@
 Password Locker
 ====================
-Password Locker is an open source cross-platform homebrewing program built with 
+Password Locker is an open source cross-platform program built with 
 wxPython. It is for storing your website passwords and other information in a
 securely encrypted file. It can be used in conjunction with a cloud service
 such as Dropbox or SkyDrive to securely back up your password lists.
